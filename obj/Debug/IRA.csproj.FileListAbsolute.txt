@@ -1,0 +1,10 @@
+E:\IRA_Cshape\IRA\bin\Debug\IRA.exe.config
+E:\IRA_Cshape\IRA\bin\Debug\IRA.exe
+E:\IRA_Cshape\IRA\bin\Debug\IRA.pdb
+E:\IRA_Cshape\IRA\obj\Debug\IRA.csprojAssemblyReference.cache
+E:\IRA_Cshape\IRA\obj\Debug\IRA.Form1.resources
+E:\IRA_Cshape\IRA\obj\Debug\IRA.Properties.Resources.resources
+E:\IRA_Cshape\IRA\obj\Debug\IRA.csproj.GenerateResource.cache
+E:\IRA_Cshape\IRA\obj\Debug\IRA.csproj.CoreCompileInputs.cache
+E:\IRA_Cshape\IRA\obj\Debug\IRA.exe
+E:\IRA_Cshape\IRA\obj\Debug\IRA.pdb

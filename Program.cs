@@ -37,6 +37,7 @@ namespace IRA
             System.Runtime.InteropServices.Marshal.Copy(rgb, 0, ptr, allPixelBits); //Config rgb array data to bmp data
             bmp.UnlockBits(imgData); //unlock bmp bits
         }
+
         public void bmp2RGB(Bitmap bmp)
         {
             imgX = bmp.Width; imgY = bmp.Height;
